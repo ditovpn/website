@@ -20,6 +20,6 @@ We welcome contributions from the community to improve the DITO VPN website. If 
 
 ## Contact Us
 
-For any inquiries or support, you can reach out to us at contact@ditovpn.com or visit our website [www.ditovpn.com](https://www.ditovpn.com).
+For any inquiries or support, you can reach out to us at support@ditovpn.com or visit our website [www.ditovpn.com](https://www.ditovpn.com).
 
 Stay safe and secure online with DITO VPN!
